@@ -9,3 +9,6 @@ Cmd: compileSnippet
   api=0 type=1 insize=2255 outsize=422 kw=DIRECTIONAL_COOKIE ok=1
 Cmd: compileSnippet
   api=0 type=0 insize=3996 outsize=855 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+End of pipe
+
+Quitting shader compiler process
